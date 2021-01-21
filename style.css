@@ -1,0 +1,75 @@
+body{
+    margin: 0%;
+}
+body p{
+    color: gray;
+}
+.logo img{
+    width: 300px;
+}
+.nav-button{
+    padding-left: 27%;
+    font-weight: 700;
+}
+.nav-button li{
+    padding-right: 40px;
+}
+.buy-button{
+    padding: 15px 30px;
+    background-image:linear-gradient(0deg, #88a31e,#a1ba42);
+    font-weight: 700;
+    color: white;
+    outline:none;
+    border: none;
+    border-radius: 5px;
+}
+.model-img img{
+    width: 100%;
+}
+.heading{
+    font-weight: 700;
+    font-size: 60px;
+}
+.heading-color{
+    color: rgb(233, 168, 48);
+}
+.heading-top-padding{
+    padding-top: 100px;
+}
+.product-img img{
+    width: 90%;
+}
+.img-bg{
+    width: 90%;
+    background-color: #eeeeee;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 30px 0;
+}
+.card-edit{
+    border: 0;
+    /* border-radius: 20px; */
+    border: 1px solid red ;
+    
+}
+.footer-margin{
+    border: 0;
+}
+.penguin-card{
+    border: none;
+}
+.price{
+    font-size: 40px;
+    font-weight: bolder;
+    color: orange;
+    padding: 0;
+    margin: 0;
+}
+.contuct-part img{
+    width: 100%;
+}
+.left-content img{
+    width: 90px;
+    margin-right: 50px;
+}
